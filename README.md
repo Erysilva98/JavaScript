@@ -13,3 +13,15 @@ Atividades do Bootcamp da Inter - Introdução ao JavaScript
     Entendendo os operadores e suas implementações
     Projeto de Comparar Numeros em Andamento
 
+# Funçôes
+
+    Criada uma Função para Calcular a média de Alunos e lista os aprovados
+    Criada uma Função para Calcular a idade de Pessoas ( Em andamento )
+
+# Coleções
+
+# Debugging e Error Handling
+
+# JavaScript Assíncrono
+
+    Projeto de Página estática para consumir uma API
