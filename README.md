@@ -28,4 +28,13 @@ Atividades do Bootcamp da Inter - Introdução ao JavaScript
 
 # Orientação a Objetos
 
-    
+    Projeto de Orientação a Objeto com JavaScript - Conta Bancária
+
+
+# Map, Filter e Reduce
+
+    Atividades Práticas
+
+# Manipulando o D.O.M com javacript
+
+    Ativiade prática concluida
