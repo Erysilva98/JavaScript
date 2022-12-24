@@ -1,5 +1,12 @@
-# intro_javascript
-Atividades do Bootcamp da Inter - Introdução ao JavaScript
+# JavaScript
+
+## Tela Inicial
+#
+<img src="pagina.png" alt="Tela Inicial" height="250px"/>
+
+#
+
+# Atividades do Bootcamp da Inter - Introdução ao JavaScript
 
     Iniciei dia 05/01 ( Início da noite - sem registro de hórario )
 
@@ -38,3 +45,5 @@ Atividades do Bootcamp da Inter - Introdução ao JavaScript
 # Manipulando o D.O.M com javacript
 
     Ativiade prática concluida
+
+#
